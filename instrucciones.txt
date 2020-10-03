@@ -1,0 +1,5 @@
+//abrir git bash en el directorio donde quiere clonar el proyecto y ejecutar el siguiente comando "git clone https://github.com/laravel/laravel.git"
+// entrar a la carpeta del proyecto y ejecutar el comando "composer install"
+//luego ejecutat el comando "cp .env.example .env"  el cual copiar el contenido del archivo .env.example en un nuevo archivo con el nombre .env. 
+// luego ejecuta el comando "php artisan key:generate"
+// por ultimo ejecuta el servidor con el comando "php artisan serve"
