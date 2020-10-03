@@ -2,4 +2,8 @@
 // entrar a la carpeta del proyecto y ejecutar el comando "composer install"
 //luego ejecutat el comando "cp .env.example .env"  el cual copiar el contenido del archivo .env.example en un nuevo archivo con el nombre .env. 
 // luego ejecuta el comando "php artisan key:generate"
+//luego abrir el cmd y ejecutar mysql -u root -p
+//luego preciona enter enter 
+//ingresa el comando create database laravel
+//volver a git bash terminal y introducir el comando "php artisan migrate"
 // por ultimo ejecuta el servidor con el comando "php artisan serve"
